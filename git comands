@@ -1,0 +1,4 @@
+how to host your code to github repository--
+-git add .
+--git commit -m "comments"
+--git push orgin main
