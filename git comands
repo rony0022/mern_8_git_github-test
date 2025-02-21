@@ -13,3 +13,6 @@ lets create a login form branch  `git branch login-form`
 check your git branch  `git branch`
 hoew to switch branch   `git checkout login-form`
 how to publish branch `git push orgin login-form`
+check status `git status`
+
+`git merge login form``
