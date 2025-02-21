@@ -15,4 +15,5 @@ hoew to switch branch   `git checkout login-form`
 how to publish branch `git push orgin login-form`
 check status `git status`
 
-`git merge login form``
+`git merge login form`---> git push origin main( je branc h ar push korte chai)
+
