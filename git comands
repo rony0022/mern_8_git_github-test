@@ -1,4 +1,15 @@
 how to host your code to github repository--
--git add .
+--git add .
 --git commit -m "comments"
 --git push orgin main
+
+colaboration
+
+delet/ change vid=sibility
+front end static website host
+
+what is git branch `git branch `
+lets create a login form branch  `git branch login-form`
+check your git branch  `git branch`
+hoew to switch branch   `git checkout login-form`
+how to publish branch `git push orgin login-form`
